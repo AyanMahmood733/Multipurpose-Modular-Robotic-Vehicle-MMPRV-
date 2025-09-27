@@ -1,4 +1,4 @@
-# Multipurpose-Modular-Robotic-Vehicle-MMPRV-
+# Multipurpose-Modular-Robotic-Vehicle-MMPRV
 A proof of concept demonstrator for a more advanced modular robot powered by Arduino. The concept is to have a base robot build with plug-and-play attachments that can be used to have the vehicle carry out different tasks to minimize cost and complexity of production and make robotic helpers more common/easy to use.
 
 When the MMPRV starts the servos at the head and the frontal wheels of the vehicle into their origin spot.
